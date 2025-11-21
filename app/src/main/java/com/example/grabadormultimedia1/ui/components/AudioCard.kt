@@ -27,8 +27,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import mx.edu.utez.grabadormultimedia.data.MediaItem
-import mx.edu.utez.grabadormultimedia.formatDate
+import com.example.grabadormultimedia1.data.MediaItem
+import com.example.grabadormultimedia1.formatDate
 import okhttp3.internal.concurrent.formatDuration
 
 @Composable
